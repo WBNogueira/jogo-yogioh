@@ -9,4 +9,5 @@
 5) Demarcando o container Right com CSS;
 6) Estilizando os componentes visuais com CSS;
 7) Iniciando a parte lógica, preparando functions principais com JavaScript;
-8) Criando enumerações das cartas e assinaturas das functios principais com JavaScript;
+8) Criando enumerações das cartas e assinaturas das functions principais com JavaScript;
+9) Implementando mouseover e as functions setCardsFields e removeAllCardsImage;

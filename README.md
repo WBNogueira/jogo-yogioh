@@ -8,5 +8,5 @@
 4) Contruindo os container Left e Right com HTML e CSS;
 5) Demarcando o container Right com CSS;
 6) Estilizando os componentes visuais com CSS;
-7) Iniciando a parte lógica do jogo com JavaScript;
-
+7) Iniciando a parte lógica, preparando functions principais com JavaScript;
+8) Criando enumerações das cartas e assinaturas das functios principais com JavaScript;

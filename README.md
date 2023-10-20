@@ -2,6 +2,8 @@
 
 ## Criando um Jogo de Cartas do Yu-Gi-Oh! com JavaScript e CSS
 
+Abaixo os passos para a criação do jogo de jo-ken-po com as cartas e tema do Yo-Gi-Oh:
+
 1) Criando as estruturas de pastas e arquivos;
 2) Adicionando a font Press Start 2P no HTML;
 3) Colocando video do Yo-Gi-Oh no fundo com HTML e CSS;
@@ -13,3 +15,6 @@
 9) Implementando mouseover e as functions setCardsFields e removeAllCardsImage;
 10) Contruindo a lógica dos duelos e implemento de som do ganhador e perdedor;
 11) Melhorando as functions com a técnica de Extract to Method;
+12) Adicionando Favicon, cursores personalizados e música de fundo.
+
+Este projeto educacional junto com a Dio.me e instrutor Felipe Aguiar.
